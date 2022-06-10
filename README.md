@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Le-w-is
 - 👀 I’m interested in Programming and Autonomous gardening
-- 🌱 I’m currently learning Programming and Spanish
+- 🌱 I’m currently learning javascript, html, css, react.
 - 💞️ I’m looking to collaborate on school of code projects
 - 📫 How to reach me lewparr@gmail.com
 
