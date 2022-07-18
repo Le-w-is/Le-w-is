@@ -10,7 +10,7 @@ This has focused on pair-programming in an Agile way, It's been an intense and e
 
 A non-exhaustive list of the tools I've been exposed to, through School of Code and my own learning.
 
-<img src="." alt="HTML icon" height="40em" width="40em"/>
+<img src="./html.png" alt="HTML icon" height="40em" width="40em"/>
 <img src="./css.png" alt="css icon" height="40em" width="40em"/>
 <img src="./JS.png" alt="JS icon" height="40em" width="40em"/>
 <img src="./React.png" alt="React icon" height="40em" width="40em"/>
@@ -18,12 +18,11 @@ A non-exhaustive list of the tools I've been exposed to, through School of Code 
 <img src="./npm.png" alt="NPM icon" height="40em" width="40em" />
 <img src="./PostfreSQL.png" alt=" postgresql icon" height="40em" width="40em"/>
 <img src="./jest_icon_132281.png" alt=" jesticon" height="40em" width="40em"/>
-<img src="." alt="Cypress icon" height="40em" width="40em"/>
+<img src="./cypress.png" alt="Cypress icon" height="40em" width="40em"/>
 <img src="./miro.png" alt="Miro icon" height="40em" width="40em"/>
 <img src="./Trello.png" alt="Trello icon" height="40em" width="40em"/>
 <img src="./Heroku.png" alt="Heroku icon" height="40em" width="40em"/>
 <img src="./aws-logo.png" alt="aws icon" height="40em" width="40em"/>
-<img src="." alt=" icon" height="40em" width="40em"/>
 
 <br></br>
 
