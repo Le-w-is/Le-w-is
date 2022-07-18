@@ -10,8 +10,7 @@ This has focused on pair-programming in an Agile way, It's been an intense and e
 
 A non-exhaustive list of the tools I've been exposed to, through School of Code and my own learning.
 
-<img src="./html.png" alt="HTML icon" height="40em" width="40em"/>
-<img src="./css.png" alt="css icon" height="40em" width="40em"/>
+<img src="./html.png" alt="HTML icon" height="40em" width="40em"/><img src="./css.png" alt="css icon" height="40em" width="40em"/>
 <img src="./JS.png" alt="JS icon" height="40em" width="40em"/>
 <img src="./React.png" alt="React icon" height="40em" width="40em"/>
 <img src="./node.png" alt="node icon" height="40em" width="40em"/>
