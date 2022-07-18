@@ -1,4 +1,4 @@
-<img src="./Green Modern Geometric Corporate Linkedin Banner.gif" alt="My Header GIF" width="100%" height="50%">
+<img src="./Banner 2.gif" alt="My Header GIF" width="100%" height="50%">
 
 ## < Hello World/>
 
