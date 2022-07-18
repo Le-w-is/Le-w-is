@@ -17,7 +17,7 @@ A non-exhaustive list of the tools I've been exposed to, through School of Code 
 <img src="./node.png" alt="node icon" height="40em" width="40em"/>
 <img src="./npm.png" alt="NPM icon" height="40em" width="40em" />
 <img src="./PostfreSQL.png" alt=" postgresql icon" height="40em" width="40em"/>
-<img src="./jest_icon_132281.png" alt=" jesticon" height="40em" width="40em"/>
+<img src="./jest.png" alt=" jesticon" height="40em" width="40em"/>
 <img src="./cypress.png" alt="Cypress icon" height="40em" width="40em"/>
 <img src="./miro.png" alt="Miro icon" height="40em" width="40em"/>
 <img src="./Trello.png" alt="Trello icon" height="40em" width="40em"/>
