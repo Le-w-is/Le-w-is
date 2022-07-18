@@ -1,7 +1,7 @@
 
 <img src="./Green Modern Geometric Corporate Linkedin Banner.gif" alt="My Header GIF" width="100%" height="50%">
 
-< Hello World, I'm Lewis Parr /> 
+< Hello World/>
 
 I am training as a Software Engineer at School of code which is a team orientated intensive learning programm. 
 
