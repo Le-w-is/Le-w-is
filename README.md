@@ -1,4 +1,4 @@
-<img src="./Green Modern Geometric Corporate Linkedin Banner.gif" alt="My Header GIF" width="500" height="600">
+<img src="./Green Modern Geometric Corporate Linkedin Banner.gif" alt="My Header GIF" width="200" height="100">
 
 - 👋 Hi, I’m @Le-w-is
 - 👀 I’m interested in Programming and Autonomous gardening
