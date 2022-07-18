@@ -2,7 +2,6 @@
 
 ## < Hello World/>
 
-
 I am training as a Software Engineer at School of code which is a team orientated intensive learning programm.
 
 This has focused on pair-programming in an Agile way, It's been an intense and enjoyable journey. Every monday we've teamed up with a new pair for the week to learn together and tackle projects on hackathon fridays. We've had great workshops and guest lectures covering everything from Javascript quirks and Cypress testing to AWS cloud services.
@@ -14,7 +13,7 @@ A non-exhaustive list of the tools I've been exposed to, through School of Code 
 <img src="./html.png" alt="HTML icon" height="40em" width="40em"/><img src="./css.png" alt="css icon" height="40em" width="40em"/>
 <img src="./JS.png" alt="JS icon" height="40em" width="40em"/>
 <img src="./React.png" alt="React icon" height="40em" width="40em"/>
-<img src="./node.png" alt="node icon" height="40em" width="40em"/>
+<img src="./node_icon.png" alt="node icon" height="40em" width="40em"/>
 <img src="./npm.png" alt="NPM icon" height="40em" width="40em" />
 <img src="./PostfreSQL.png" alt=" postgresql icon" height="40em" width="40em"/>
 <img src="./jest.png" alt=" jesticon" height="40em" width="40em"/>
