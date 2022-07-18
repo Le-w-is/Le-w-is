@@ -20,7 +20,7 @@ Otherwise, I love travelling and cycling. I am a hobby gardener currently growin
 
 
 <Links>
-📩 Feel free to reach me at lewparr@gmail.com
+📩 Feel free to reach me at lewparr.jobs@gmail.com
 
 <!---
 Le-w-is/Le-w-is is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
