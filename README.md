@@ -1,4 +1,4 @@
-<img src="./Banner 2.gif" alt="My Header GIF" width="100%" height="50%">
+<img src="./gif banner.gif" alt="My Header GIF" width="100%" height="50%">
 
 ## < Hello World/>
 
