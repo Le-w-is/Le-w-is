@@ -2,9 +2,9 @@
 
 ## < Hello World/>
 
-I am training as a Software Engineer at School of code which is a team orientated intense learning program.
+I have trained as a Software Engineer at School of code which is a team orientated intense learning program.
 
-This has focused on pair-programming in an Agile way, It's been an intense and enjoyable journey. Every monday we've teamed up with a new pair for the week to learn together and tackle projects on hackathon fridays. We've had great workshops and guest lectures covering everything from Javascript quirks and Cypress testing to AWS cloud services.
+It focused on pair-programming in an Agile way, It was an intense and enjoyable journey. Every monday we teamed up with a new pair for the week to learn together and tackle projects on hackathon fridays. We had great workshops and guest lectures covering everything from Javascript quirks and Cypress testing to AWS cloud services.
 
 ## 🛠 The Toolkit
 
